@@ -1,0 +1,11 @@
+GDD for tank game
+
+A normal tank game with rolling mechanics for dodging bullets.
+
+Tank shots need to play an animation before firing.
+
+There should be a .3 second delay when attempting to fire vs actually shooting a projectile to give the other player time to dodge
+
+Players can only dodge in the direction that they are moving in.
+
+Tanks will be hovertanks that can move along terrain without treads. (Model for this should be made in either tiltbrush, Unreal itself, or ZBrush)
